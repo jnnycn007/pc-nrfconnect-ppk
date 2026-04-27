@@ -19,7 +19,6 @@ import { close, open } from '../actions/deviceActions';
 const deviceListing = {
     nordicUsb: true,
     nordicDfu: true,
-    serialPorts: true,
 };
 
 export const deviceSetupConfig: DeviceSetupConfig = {
