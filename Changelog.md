@@ -11,8 +11,8 @@
 
 ### Removed
 
-- Removed PPK1 deprecation notice. PPK1 devices will no longer show 
-  in the list of connected devices.
+- Removed PPK1 deprecation notice. PPK1 devices will no longer show in the list
+  of connected devices.
 
 ## 4.3.1 - 2025-08-13
 
