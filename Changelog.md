@@ -9,6 +9,11 @@
 
 - Do not send big, unneeded telemetry data for dependencies.
 
+### Removed
+
+- Removed PPK1 deprecation notice. PPK1 devices will no longer show in the list
+  of connected devices.
+
 ## 4.3.1 - 2025-08-13
 
 ### Fixed
